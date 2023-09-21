@@ -4,7 +4,16 @@
     {
         static void Main(string[] args)
         {
-            
+            // задание 4 диапозон -500...-300 значение 15
+            for (int i = -500; i <= -300; i++)
+            {
+              if (i % 15 == 0)
+                {
+                    Console.Write(i + " ");
+                }
+            }
+
+                
         }
     }
 }
