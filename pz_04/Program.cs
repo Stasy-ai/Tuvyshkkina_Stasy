@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            // задание 4 диапозон -500...-300 значение 15
+            // задание 4 
             for (int i = -500; i <= -300; i++)
             {
               if (i % 15 == 0)
@@ -12,11 +12,6 @@
                     Console.Write(i + " ");
                 }
             }
-
-                
-        }
-    }
-}
 /*задание 5
             Console.WriteLine("значение 2х переменных");
             int i, j;
@@ -44,12 +39,15 @@
             }
             
 /задача 1
- Console.WriteLine("вывод диапозона"); 
-  int start = -100;
-  int end = 0;
-  int step = 2;
-  for (int i = start; i <= end; i+= step)
-  {
-      Console.WriteLine(i);
-  }
-  Console.ReadLine();*/
+             Console.WriteLine("вывод диапозона"); 
+             int start = -100;
+             int end = 0;
+             int step = 2;
+             for (int i = start; i <= end; i+= step)
+             {
+                 Console.WriteLine(i);
+             }
+             Console.ReadLine();*/
+        }
+    }
+}
