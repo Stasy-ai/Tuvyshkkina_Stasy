@@ -20,7 +20,7 @@
                 product *= n1;
                 n1++;
             }
-            Console.WriteLine("Произведение всех целых чисел oт {0} до {1} равно {2}",originalN1,n2,product);
+            Console.WriteLine("Произведение всех целых чисел oт {0} до {1} равно {2}", originalN1, n2, product);
 
         }
     }
