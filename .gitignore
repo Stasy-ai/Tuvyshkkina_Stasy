@@ -362,3 +362,6 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /pz_05
+/pz_11/Program.cs
+/pz_12/Program.cs
+/pz_13/Program.cs
